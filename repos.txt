@@ -84,6 +84,7 @@ github:jsoftware/ide_ja
 github:jsoftware/ide_jhs
 github:jsoftware/ide_qt
 github:jsoftware/labs_labs
+github:jsoftware/math_calculus
 github:jsoftware/math_deoptim
 github:jsoftware/math_eigenpic
 github:jsoftware/math_fftw
