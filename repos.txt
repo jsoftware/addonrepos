@@ -14,6 +14,7 @@ github:jsoftware/api_jc
 github:jsoftware/api_jni
 github:jsoftware/api_ncurses
 github:jsoftware/api_python3
+github:jsoftware/arc_zip
 github:jsoftware/arc_ziptrees
 github:jsoftware/arc_zlib
 github:jsoftware/convert_jiconv
@@ -37,6 +38,7 @@ github:jsoftware/demos_qtdemo
 github:jsoftware/demos_wd
 github:jsoftware/demos_wdplot
 github:jsoftware/dev_fold
+github:jsoftware/dev_lu
 github:jsoftware/docs_help
 github:jsoftware/docs_joxygen
 github:jsoftware/finance_actuarial
@@ -85,6 +87,7 @@ github:jsoftware/ide_ja
 github:jsoftware/ide_jhs
 github:jsoftware/ide_qt
 github:jsoftware/labs_labs
+github:jsoftware/math_arrayfire
 github:jsoftware/math_calculus
 github:jsoftware/math_deoptim
 github:jsoftware/math_eigenpic
