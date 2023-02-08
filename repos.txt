@@ -1,4 +1,4 @@
-github:bilam/arc_lz4
+github:bilam/arc_lz4|main
 github:bilam/ide_jnet
 github:bobtherriault/media_videolabs
 github:cdburke/convert_pjson
@@ -15,12 +15,11 @@ github:jsoftware/api_jc
 github:jsoftware/api_jni
 github:jsoftware/api_ncurses
 github:jsoftware/api_python3
-github:jsoftware/arc_zip
-github:jsoftware/arc_ziptrees
 github:jsoftware/arc_zlib
 github:jsoftware/convert_jiconv
 github:jsoftware/convert_json
 github:jsoftware/convert_misc
+github:jsoftware/convert_numpy
 github:jsoftware/data_ddmysql
 github:jsoftware/data_ddsqlite
 github:jsoftware/data_jd
@@ -40,7 +39,6 @@ github:jsoftware/demos_wd
 github:jsoftware/demos_wdplot
 github:jsoftware/dev_fold
 github:jsoftware/dev_lu
-github:jsoftware/docs_help
 github:jsoftware/docs_joxygen
 github:jsoftware/finance_actuarial
 github:jsoftware/finance_interest
@@ -52,6 +50,7 @@ github:jsoftware/format_zulu
 github:jsoftware/format_zulu-bare
 github:jsoftware/format_zulu-lite
 github:jsoftware/games_2048
+github:jsoftware/games_bagofnouns
 github:jsoftware/games_minesweeper
 github:jsoftware/games_nurikabe
 github:jsoftware/games_pousse

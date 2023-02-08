@@ -15,8 +15,9 @@ cd addons
 git init .
 
 f() {
- p=`sed "s/github:/github.com\//" <<<"$1"`
- d=`sed "s/_/\//" <<<"${1##*/}"`
+ n=`sed "s/|.*//" <<< "$1"`
+ p=`sed "s/github:/github.com\//" <<<"$n"`
+ d=`sed "s/_/\//" <<<"${n##*/}"`
  git submodule add $P://$p $d
 }
 
