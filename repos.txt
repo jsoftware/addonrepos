@@ -1,4 +1,4 @@
-github:bilam/arc_lz4|main
+github:bilam/arc_lz4
 github:bilam/ide_jnet
 github:bobtherriault/media_videolabs
 github:cdburke/convert_pjson
