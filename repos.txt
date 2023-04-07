@@ -37,8 +37,10 @@ github:jsoftware/demos_publish
 github:jsoftware/demos_qtdemo
 github:jsoftware/demos_wd
 github:jsoftware/demos_wdplot
+github:jsoftware/dev_eformat
 github:jsoftware/dev_fold
 github:jsoftware/dev_lu
+github:jsoftware/dev_modular
 github:jsoftware/docs_joxygen
 github:jsoftware/finance_actuarial
 github:jsoftware/finance_interest
