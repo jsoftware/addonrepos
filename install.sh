@@ -16,7 +16,7 @@ set -e
 P=git
 # P=https
 
-mkdir addons
+mkdir -p addons
 cd addons
 git init .
 
@@ -25,13 +25,14 @@ f() {
  if [ "$P" = "git" ] ; then
   p=`sed "s/github:/github.com:/" <<<"$n"`
   d=`sed "s/_/\//" <<<"${n##*/}"`
+  if [ -d "$d" ] ; then return ; fi
   git submodule add $P@$p $d
  else
   p=`sed "s/github:/github.com\//" <<<"$n"`
   d=`sed "s/_/\//" <<<"${n##*/}"`
+  if [ -d "$d" ] ; then return ; fi
   git submodule add $P://$p $d
  fi
-
 }
 
 cat ../repos.txt | while read p; do

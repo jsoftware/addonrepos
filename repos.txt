@@ -6,7 +6,7 @@ github:cdburke/data_sqlite
 github:earthspot/math_cal
 github:earthspot/math_tabula
 github:earthspot/math_uu
-github:jip/mt
+github:jip/math_mt
 github:jsoftware/api_expat
 github:jsoftware/api_gles
 github:jsoftware/api_java
