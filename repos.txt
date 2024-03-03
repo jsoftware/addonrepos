@@ -3,9 +3,6 @@ github:bilam/ide_jnet
 github:bobtherriault/media_videolabs
 github:cdburke/convert_pjson
 github:cdburke/data_sqlite
-github:earthspot/math_cal
-github:earthspot/math_tabula
-github:earthspot/math_uu
 github:jip/mt
 github:jsoftware/api_expat
 github:jsoftware/api_gles
@@ -90,6 +87,7 @@ github:jsoftware/ide_jhs
 github:jsoftware/ide_qt
 github:jsoftware/labs_labs
 github:jsoftware/math_arrayfire
+github:jsoftware/math_cal
 github:jsoftware/math_calculus
 github:jsoftware/math_deoptim
 github:jsoftware/math_eigenpic
@@ -99,6 +97,8 @@ github:jsoftware/math_lapack
 github:jsoftware/math_lapack2
 github:jsoftware/math_lbfgs
 github:jsoftware/math_misc
+github:jsoftware/math_tabula
+github:jsoftware/math_uu
 github:jsoftware/media_imagekit
 github:jsoftware/media_wav
 github:jsoftware/misc_classroom
