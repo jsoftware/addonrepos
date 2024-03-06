@@ -39,7 +39,6 @@ github:jsoftware/dev_fold
 github:jsoftware/dev_lu
 github:jsoftware/dev_modular
 github:jsoftware/docs_joxygen
-github:jsoftware/finance_actuarial
 github:jsoftware/finance_interest
 github:jsoftware/format_datefmt
 github:jsoftware/format_printf
@@ -67,7 +66,6 @@ github:jsoftware/graphics_afm
 github:jsoftware/graphics_bmp
 github:jsoftware/graphics_cairo
 github:jsoftware/graphics_color
-github:jsoftware/graphics_d3
 github:jsoftware/graphics_freeglut
 github:jsoftware/graphics_fvj4
 github:jsoftware/graphics_gnuplot
