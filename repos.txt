@@ -48,7 +48,6 @@ github:jsoftware/format_zulu
 github:jsoftware/format_zulu-bare
 github:jsoftware/format_zulu-lite
 github:jsoftware/games_2048
-github:jsoftware/games_bagofnouns
 github:jsoftware/games_minesweeper
 github:jsoftware/games_nurikabe
 github:jsoftware/games_pousse
