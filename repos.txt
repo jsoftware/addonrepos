@@ -4,6 +4,7 @@ github:bobtherriault/media_videolabs
 github:cdburke/convert_pjson
 github:cdburke/data_sqlite
 github:jip/mt
+github:jsoftware/api_curl
 github:jsoftware/api_expat
 github:jsoftware/api_gles
 github:jsoftware/api_java
