@@ -20,6 +20,7 @@ github:jsoftware/convert_misc
 github:jsoftware/convert_numpy
 github:jsoftware/data_ddmysql
 github:jsoftware/data_ddsqlite
+github:jsoftware/data_dictionary
 github:jsoftware/data_jd
 github:jsoftware/data_jfiles
 github:jsoftware/data_jmf
